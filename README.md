@@ -1,2 +1,4 @@
 # Git-and-Github-learning
-This is me learning the basics of Git &amp; Github 
+This is me learning the basics of Git & Github 
+<br>
+Author : M.Usman
